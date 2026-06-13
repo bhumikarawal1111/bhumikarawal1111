@@ -1,16 +1,67 @@
-## Hi there 👋
+Hi 👋, I'm Bhumika Rawal
 
-<!--
-**bhumikarawal1111/bhumikarawal1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science Student passionate about learning and building
 
-Here are some ideas to get you started:
+🎓 B.Tech CS Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Full Stack Development and Data Structures & Algorithms
+
+💡 Interested in Web Development, Software Engineering, and Problem Solving
+
+🚀 Building projects to strengthen my development skills and gain practical experience
+
+---
+
+🛠️ Skills
+
+Programming Languages
+
+- Java
+- Python
+- C
+
+Frontend Development
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+Databases
+
+- MongoDB
+- SQL
+
+Tools & Technologies
+
+- Git
+- GitHub
+
+---
+
+📚 Currently Learning
+
+- React.js
+- MERN Stack Development
+- Data Structures & Algorithms
+- Problem Solving for Technical Interviews
+
+---
+
+🎯 Goals for 2026
+
+- Build impactful full-stack projects
+- Strengthen DSA skills
+- Contribute to open source
+- Secure software development internships
+
+---
+
+📫 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/bhumika-rawal-
+- GitHub: github.com/bhumikarawal1111
+
+---
+
+⭐ Always learning, building, and improving one project at a time.
